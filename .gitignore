@@ -1,8 +1,8 @@
-.vs
-Build
-Binaries
-.vscode
-DerivedDataCache
-Intermediate
-Saved
-Script
+UE4_Practice_Runner.vs
+UE4_Practice_Runner/Build
+UE4_Practice_Runner/Binaries
+UE4_Practice_Runner.vscode
+UE4_Practice_Runner/DerivedDataCache
+UE4_Practice_Runner/Intermediate
+UE4_Practice_Runner/Saved
+UE4_Practice_Runner/Script
